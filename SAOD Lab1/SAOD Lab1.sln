@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SAOD Lab1", "SAOD Lab1\SAOD Lab1.vcxproj", "{6297094F-BC1B-460C-B0D0-7F1A0DC5C220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6297094F-BC1B-460C-B0D0-7F1A0DC5C220}.Debug|x64.ActiveCfg = Debug|x64
+		{6297094F-BC1B-460C-B0D0-7F1A0DC5C220}.Debug|x64.Build.0 = Debug|x64
+		{6297094F-BC1B-460C-B0D0-7F1A0DC5C220}.Debug|x86.ActiveCfg = Debug|Win32
+		{6297094F-BC1B-460C-B0D0-7F1A0DC5C220}.Debug|x86.Build.0 = Debug|Win32
+		{6297094F-BC1B-460C-B0D0-7F1A0DC5C220}.Release|x64.ActiveCfg = Release|x64
+		{6297094F-BC1B-460C-B0D0-7F1A0DC5C220}.Release|x64.Build.0 = Release|x64
+		{6297094F-BC1B-460C-B0D0-7F1A0DC5C220}.Release|x86.ActiveCfg = Release|Win32
+		{6297094F-BC1B-460C-B0D0-7F1A0DC5C220}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B32C505-C8BD-4B6E-9D43-6517655DB110}
+	EndGlobalSection
+EndGlobal
